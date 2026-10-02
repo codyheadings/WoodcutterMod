@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:bamboo_block",
-  "result": {
-    "count": 12,
-    "id": "minecraft:bamboo_trapdoor"
-  }
-}

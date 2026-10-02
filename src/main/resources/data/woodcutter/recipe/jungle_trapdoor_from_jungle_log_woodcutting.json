@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:jungle_log",
-  "result": {
-    "count": 12,
-    "id": "minecraft:jungle_trapdoor"
-  }
-}

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:stick_from_crimson_fence_woodcutting"
+        "recipes": "woodcutter:stick_from_crimson_fence_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:mangrove_fence_gate_from_mangrove_planks_woodcutting"
+        "recipes": "woodcutter:mangrove_fence_gate_from_mangrove_planks_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

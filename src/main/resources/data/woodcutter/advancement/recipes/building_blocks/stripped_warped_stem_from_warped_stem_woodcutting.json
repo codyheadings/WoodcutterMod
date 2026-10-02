@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:stripped_warped_stem_from_warped_stem_woodcutting"
+        "recipes": "woodcutter:stripped_warped_stem_from_warped_stem_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

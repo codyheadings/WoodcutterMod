@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:cherry_fence",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:jungle_sign",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

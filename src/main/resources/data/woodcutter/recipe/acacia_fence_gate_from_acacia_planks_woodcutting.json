@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:acacia_planks",
-  "result": {
-    "id": "minecraft:acacia_fence_gate"
-  }
-}

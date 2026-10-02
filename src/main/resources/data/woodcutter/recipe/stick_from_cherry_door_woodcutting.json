@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:cherry_door",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

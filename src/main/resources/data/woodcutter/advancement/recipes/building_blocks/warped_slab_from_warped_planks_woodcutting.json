@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:warped_slab_from_warped_planks_woodcutting"
+        "recipes": "woodcutter:warped_slab_from_warped_planks_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

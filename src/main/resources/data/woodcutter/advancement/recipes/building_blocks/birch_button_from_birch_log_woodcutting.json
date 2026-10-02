@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:birch_button_from_birch_log_woodcutting"
+        "recipes": "woodcutter:birch_button_from_birch_log_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

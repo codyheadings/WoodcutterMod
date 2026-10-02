@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:warped_fence_from_stripped_warped_stem_woodcutting"
+        "recipes": "woodcutter:warped_fence_from_stripped_warped_stem_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

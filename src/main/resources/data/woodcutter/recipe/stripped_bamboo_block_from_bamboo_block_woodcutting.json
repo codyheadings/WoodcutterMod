@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:bamboo_block",
-  "result": {
-    "id": "minecraft:stripped_bamboo_block"
-  }
-}

@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:woodcutter"
+        "recipes": "woodcutter:woodcutter"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

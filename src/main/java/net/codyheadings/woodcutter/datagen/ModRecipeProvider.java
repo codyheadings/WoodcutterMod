@@ -3,11 +3,13 @@ package net.codyheadings.woodcutter.datagen;
 import net.codyheadings.woodcutter.Woodcutter;
 import net.fabricmc.fabric.api.datagen.v1.FabricPackOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricRecipeProvider;
+import net.minecraft.advancements.Advancement;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.data.recipes.RecipeCategory;
 import net.minecraft.data.recipes.RecipeOutput;
 import net.minecraft.data.recipes.RecipeProvider;
+import net.minecraft.data.worldgen.BootstrapContext;
 import net.minecraft.resources.Identifier;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.Item;
@@ -26,7 +28,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
     }
 
     private record UnstrippedWoodSet(String name, Item log, Item stripped_log, Item planks, Item stairs, Item slab, Item fence, Item gate, Item trapdoor, Item door, Item sign, Item button, Item sticks) {}
-    private record StrippedWoodSet(String name, Item log, Item planks, Item stairs, Item slab, Item fence, Item gate, Item trapdoor, Item door, Item button, Item sign, Item sticks) {}
+//    private record StrippedWoodSet(String name, Item log, Item planks, Item stairs, Item slab, Item fence, Item gate, Item trapdoor, Item door, Item button, Item sign, Item sticks) {}
 
     private static final List<UnstrippedWoodSet> UNSTRIPPED_WOODS = List.of(
             new UnstrippedWoodSet("oak", Items.OAK_LOG, Items.STRIPPED_OAK_LOG, Items.OAK_PLANKS, Items.OAK_STAIRS, Items.OAK_SLAB, Items.OAK_FENCE, Items.OAK_FENCE_GATE, Items.OAK_TRAPDOOR, Items.OAK_DOOR, Items.OAK_SIGN, Items.OAK_BUTTON, Items.STICK),
@@ -44,8 +46,10 @@ public class ModRecipeProvider extends FabricRecipeProvider {
     );
 
     @Override
-    protected RecipeProvider createRecipeProvider(HolderLookup.Provider registries, RecipeOutput output) {
-        return new RecipeProvider(registries, output) {
+    protected RecipeProvider createRecipeProvider(HolderLookup.Provider registries,
+                                                  BootstrapContext<Recipe<?>> recipeOutput,
+                                                  BootstrapContext<Advancement> advancementOutput) {
+        return new RecipeProvider(recipeOutput, advancementOutput) {
 
             private void woodcut(ItemLike input, ItemLike result, int count) {
                 String name = getItemName(result) + "_from_" + getItemName(input) + "_woodcutting";

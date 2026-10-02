@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:crimson_sign_from_crimson_stem_woodcutting"
+        "recipes": "woodcutter:crimson_sign_from_crimson_stem_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

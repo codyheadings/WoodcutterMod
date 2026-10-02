@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:dark_oak_fence",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

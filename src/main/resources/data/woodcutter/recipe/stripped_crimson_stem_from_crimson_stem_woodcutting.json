@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:crimson_stem",
-  "result": {
-    "id": "minecraft:stripped_crimson_stem"
-  }
-}

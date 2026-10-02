@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:bamboo_sign",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

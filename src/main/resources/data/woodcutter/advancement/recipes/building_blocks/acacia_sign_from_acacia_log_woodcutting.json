@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:acacia_sign_from_acacia_log_woodcutting"
+        "recipes": "woodcutter:acacia_sign_from_acacia_log_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

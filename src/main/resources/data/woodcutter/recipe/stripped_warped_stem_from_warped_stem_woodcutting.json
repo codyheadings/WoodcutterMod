@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:warped_stem",
-  "result": {
-    "id": "minecraft:stripped_warped_stem"
-  }
-}

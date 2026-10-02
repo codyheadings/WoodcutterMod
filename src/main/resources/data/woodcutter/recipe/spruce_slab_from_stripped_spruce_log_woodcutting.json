@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:stripped_spruce_log",
-  "result": {
-    "count": 8,
-    "id": "minecraft:spruce_slab"
-  }
-}

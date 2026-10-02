@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:warped_stairs",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

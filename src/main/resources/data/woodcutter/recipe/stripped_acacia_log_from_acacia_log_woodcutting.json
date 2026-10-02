@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:acacia_log",
-  "result": {
-    "id": "minecraft:stripped_acacia_log"
-  }
-}

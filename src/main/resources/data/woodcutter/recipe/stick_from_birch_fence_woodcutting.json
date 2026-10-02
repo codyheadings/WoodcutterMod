@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:birch_fence",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

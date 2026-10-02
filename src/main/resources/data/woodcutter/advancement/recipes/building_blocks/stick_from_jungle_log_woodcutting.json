@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:stick_from_jungle_log_woodcutting"
+        "recipes": "woodcutter:stick_from_jungle_log_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:crimson_stairs",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

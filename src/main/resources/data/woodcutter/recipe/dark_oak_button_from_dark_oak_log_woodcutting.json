@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:dark_oak_log",
-  "result": {
-    "count": 16,
-    "id": "minecraft:dark_oak_button"
-  }
-}

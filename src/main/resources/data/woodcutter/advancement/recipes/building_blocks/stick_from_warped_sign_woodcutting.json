@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:stick_from_warped_sign_woodcutting"
+        "recipes": "woodcutter:stick_from_warped_sign_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     },

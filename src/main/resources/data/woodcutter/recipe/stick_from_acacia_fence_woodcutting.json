@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:acacia_fence",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

@@ -5,6 +5,7 @@ import net.codyheadings.woodcutter.recipe.WoodcutterRecipe;
 import net.codyheadings.woodcutter.recipe.WoodcutterRecipes;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.sounds.SoundSource;
+import net.minecraft.util.Prediction;
 import net.minecraft.world.Container;
 import net.minecraft.world.SimpleContainer;
 import net.minecraft.world.entity.player.Inventory;
@@ -221,7 +222,7 @@ public class WoodcutterMenu extends AbstractContainerMenu {
 
             slot.onTake(player, stack);
             if (slotIndex == 1) {
-                player.drop(stack, false);
+                player.drop(stack, false, Prediction.PREDICTED);
             }
 
             this.broadcastChanges();

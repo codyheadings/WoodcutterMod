@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:stripped_bamboo_block_from_bamboo_block_woodcutting"
+        "recipes": "woodcutter:stripped_bamboo_block_from_bamboo_block_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

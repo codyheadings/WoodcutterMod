@@ -25,15 +25,15 @@ import net.minecraft.world.phys.shapes.VoxelShape;
 import org.jspecify.annotations.Nullable;
 
 public class WoodcutterBlock extends Block {
-    public static final MapCodec<WoodcutterBlock> CODEC = simpleCodec(WoodcutterBlock::new);
+    //public static final MapCodec<WoodcutterBlock> CODEC = simpleCodec(WoodcutterBlock::new);
     private static final Component CONTAINER_TITLE = Component.translatable("container.woodcutter");
     public static final EnumProperty<Direction> FACING = HorizontalDirectionalBlock.FACING;
     private static final VoxelShape SHAPE = Block.column(16.0, 0.0, 9.0);
 
-    @Override
-    public MapCodec<WoodcutterBlock> codec() {
-        return CODEC;
-    }
+//    @Override
+//    public MapCodec<WoodcutterBlock> codec() {
+//        return CODEC;
+//    }
 
     public WoodcutterBlock(final BlockBehaviour.Properties properties) {
         super(properties);

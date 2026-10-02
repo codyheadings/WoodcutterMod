@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:stripped_oak_log",
-  "result": {
-    "count": 4,
-    "id": "minecraft:oak_door"
-  }
-}

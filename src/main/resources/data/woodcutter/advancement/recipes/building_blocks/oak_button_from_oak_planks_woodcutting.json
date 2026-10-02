@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:oak_button_from_oak_planks_woodcutting"
+        "recipes": "woodcutter:oak_button_from_oak_planks_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

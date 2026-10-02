@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:acacia_trapdoor",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

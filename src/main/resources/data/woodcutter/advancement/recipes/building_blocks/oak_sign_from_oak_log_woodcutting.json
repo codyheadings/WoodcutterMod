@@ -13,7 +13,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "woodcutter:oak_sign_from_oak_log_woodcutting"
+        "recipes": "woodcutter:oak_sign_from_oak_log_woodcutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }

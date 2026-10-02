@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:oak_fence_gate",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

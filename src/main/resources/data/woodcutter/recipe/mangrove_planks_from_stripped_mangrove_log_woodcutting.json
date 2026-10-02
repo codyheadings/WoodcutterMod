@@ -1,8 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:stripped_mangrove_log",
-  "result": {
-    "count": 4,
-    "id": "minecraft:mangrove_planks"
-  }
-}

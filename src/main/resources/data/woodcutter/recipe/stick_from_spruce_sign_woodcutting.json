@@ -1,7 +1,0 @@
-{
-  "type": "woodcutter:woodcutting",
-  "ingredient": "minecraft:spruce_sign",
-  "result": {
-    "id": "minecraft:stick"
-  }
-}

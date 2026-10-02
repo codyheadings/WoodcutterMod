@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:acacia_log",
+  "result": {
+    "count": 12,
+    "id": "minecraft:acacia_trapdoor"
+  }
+}

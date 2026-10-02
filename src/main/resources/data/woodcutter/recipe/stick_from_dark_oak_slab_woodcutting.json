@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:dark_oak_slab",
+  "result": {
+    "id": "minecraft:stick"
+  }
+}

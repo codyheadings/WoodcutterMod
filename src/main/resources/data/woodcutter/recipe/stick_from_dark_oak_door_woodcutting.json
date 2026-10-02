@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:dark_oak_door",
+  "result": {
+    "id": "minecraft:stick"
+  }
+}

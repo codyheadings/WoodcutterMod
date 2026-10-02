@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:poplar_log",
+  "result": {
+    "count": 4,
+    "id": "minecraft:poplar_stairs"
+  }
+}

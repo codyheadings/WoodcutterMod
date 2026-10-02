@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:cherry_log",
+  "result": {
+    "count": 4,
+    "id": "minecraft:cherry_sign"
+  }
+}

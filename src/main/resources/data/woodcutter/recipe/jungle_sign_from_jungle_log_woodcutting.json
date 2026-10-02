@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:jungle_log",
+  "result": {
+    "count": 4,
+    "id": "minecraft:jungle_sign"
+  }
+}

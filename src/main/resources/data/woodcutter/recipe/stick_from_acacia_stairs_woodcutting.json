@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:acacia_stairs",
+  "result": {
+    "id": "minecraft:stick"
+  }
+}

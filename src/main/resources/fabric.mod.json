@@ -18,6 +18,7 @@
 		"main": [
 			"net.codyheadings.woodcutter.Woodcutter"
 		],
+		"client": [ "net.codyheadings.woodcutter.WoodcutterClient" ],
 		"fabric-datagen": [
 			"net.codyheadings.woodcutter.WoodcutterDataGenerator"
 		]

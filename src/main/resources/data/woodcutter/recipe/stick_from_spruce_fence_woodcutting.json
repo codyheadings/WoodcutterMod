@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:spruce_fence",
+  "result": {
+    "id": "minecraft:stick"
+  }
+}

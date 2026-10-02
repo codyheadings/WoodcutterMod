@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:oak_sign",
+  "result": {
+    "id": "minecraft:stick"
+  }
+}

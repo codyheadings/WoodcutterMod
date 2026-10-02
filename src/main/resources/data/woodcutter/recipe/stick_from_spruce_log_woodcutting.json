@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:spruce_log",
+  "result": {
+    "count": 12,
+    "id": "minecraft:stick"
+  }
+}

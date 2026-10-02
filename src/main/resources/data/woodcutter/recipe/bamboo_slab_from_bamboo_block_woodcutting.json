@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:bamboo_block",
+  "result": {
+    "count": 8,
+    "id": "minecraft:bamboo_slab"
+  }
+}

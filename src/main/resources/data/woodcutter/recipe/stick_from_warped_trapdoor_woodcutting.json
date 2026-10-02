@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:warped_trapdoor",
+  "result": {
+    "id": "minecraft:stick"
+  }
+}

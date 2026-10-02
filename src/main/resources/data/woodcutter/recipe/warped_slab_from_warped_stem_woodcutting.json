@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:warped_stem",
+  "result": {
+    "count": 8,
+    "id": "minecraft:warped_slab"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:stripped_oak_wood",
+  "result": {
+    "id": "minecraft:stripped_oak_log"
+  }
+}

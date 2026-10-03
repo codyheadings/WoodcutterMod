@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:mangrove_log",
+  "result": {
+    "id": "minecraft:mangrove_wood"
+  }
+}

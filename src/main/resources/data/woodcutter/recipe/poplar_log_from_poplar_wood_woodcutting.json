@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:poplar_wood",
+  "result": {
+    "id": "minecraft:poplar_log"
+  }
+}

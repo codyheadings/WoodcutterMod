@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:cherry_shelf",
+  "result": {
+    "count": 4,
+    "id": "minecraft:stick"
+  }
+}

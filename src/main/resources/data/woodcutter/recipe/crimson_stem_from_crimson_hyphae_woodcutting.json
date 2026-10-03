@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:crimson_hyphae",
+  "result": {
+    "id": "minecraft:crimson_stem"
+  }
+}

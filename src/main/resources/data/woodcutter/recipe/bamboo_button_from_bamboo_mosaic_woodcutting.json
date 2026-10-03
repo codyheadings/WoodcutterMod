@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:bamboo_mosaic",
+  "result": {
+    "count": 4,
+    "id": "minecraft:bamboo_button"
+  }
+}

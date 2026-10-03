@@ -1,0 +1,7 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": "minecraft:warped_hyphae",
+  "result": {
+    "id": "minecraft:warped_stem"
+  }
+}

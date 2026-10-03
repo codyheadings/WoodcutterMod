@@ -3,7 +3,7 @@
 	"id": "woodcutter",
 	"version": "${version}",
 	"name": "Woodcutter",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Woodcutter block for all your carpentry needs.",
 	"authors": [
 		"codyheadings"
 	],
